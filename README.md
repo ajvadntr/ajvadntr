@@ -10,4 +10,4 @@
 </p>
 
 
-**ᴠɪᴇᴡꜱ** : <img width="20%" src="https://gpvc.arturio.dev/ajvadntr" />
+**ᴠɪᴇᴡꜱ** : <img width="30%" src="https://gpvc.arturio.dev/ajvadntr" />
