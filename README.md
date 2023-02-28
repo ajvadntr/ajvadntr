@@ -9,8 +9,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajvadntr&&show_icons=true&theme=midnight-purple" alt="ajvadntr"/>
 </p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajvadntr&layout=compact&theme=tokyonight" align="center">
-</p>
 
-**ᴠɪᴇᴡꜱ** : <img width="50%" src="https://gpvc.arturio.dev/ajvadntr" />
+**ᴠɪᴇᴡꜱ** : <img width="20%" src="https://gpvc.arturio.dev/ajvadntr" />
